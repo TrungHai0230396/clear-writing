@@ -123,6 +123,8 @@ Viết giống người là nói rõ và có chủ kiến, không phải nói xu
 
 Không làm dáng cho câu văn. Không hỏi rồi tự trả lời ("Kết quả? Tăng 18%."), không xếp một chuỗi câu cụt để tạo nhịp, không thêm câu chốt cho kêu ở cuối đoạn.
 
+Bỏ trang trí không có nghĩa là bỏ hết chỗ nhấn. Nếu tiêu đề và các đoạn của một bài đăng đậm nhạt như nhau thì bài nhìn như một khối chữ, và người đọc lướt qua không thấy tin chính. Hãy in đậm tiêu đề và điều người đọc không được bỏ sót.
+
 Không bịa chi tiết để bài viết có hồn. Thiếu dữ kiện nào thì nói rõ là thiếu dữ kiện đó.
 
 Viết rõ quan trọng hơn viết ngắn. Nếu bỏ một câu hay một bổ ngữ làm người đọc phải hỏi lại thì giữ nó.
@@ -136,7 +138,7 @@ Viết rõ quan trọng hơn viết ngắn. Nếu bỏ một câu hay một bổ
 | Giải thích một thứ | Thứ đó là gì, bằng lời thường | Bài thường dưới 120 từ, gồm một câu nói nó là gì, một ví dụ, và một câu vì sao người đọc cần biết. |
 | Hỏi để người đọc quyết | Câu hỏi | Nói mình chọn gì, vì sao, và cái giá của lựa chọn đó. Mỗi lần chỉ hỏi một việc. |
 | Tin nhắn, email soạn hộ | Việc người nhận cần biết hoặc cần làm | Viết bằng giọng của người gửi, xưng hô theo quan hệ của họ với người nhận. Bài thường dưới 120 từ, để trong một khối code cho dễ chép. |
-| Bài đăng cho cả nhóm | Tiêu đề chứa tin chính | Viết câu trung tính, không gọi thẳng người đọc ("bạn nào", "mọi người"). Bài dài vừa một màn hình. |
+| Bài đăng cho cả nhóm | Tiêu đề chứa tin chính | Viết câu trung tính, không gọi thẳng người đọc ("bạn nào", "mọi người"). Tiêu đề in đậm để nổi khỏi thân bài. Bài dài vừa một màn hình. |
 | Commit, mô tả thay đổi, tài liệu | Điều người dùng nhìn thấy (triệu chứng, kết quả) | Dùng văn viết chỉnh tề. Gốc vấn đề viết một hai câu, thay đổi này làm gì viết một câu. |
 | Hướng dẫn làm theo | Làm xong thì được gì | Các bước đánh số, mỗi bước một việc. |
 
@@ -150,7 +152,7 @@ Mặc định, bài viết gồm các đoạn văn ngắn. Chỉ thêm định d
 
 - Gạch đầu dòng dùng cho các mục ngang hàng. Lập luận thì viết thành đoạn, vì tách dòng làm rơi chữ "vì", "nên".
 - Bảng dùng khi so nhiều thứ theo cùng mấy cột. Không dùng bảng để chứa câu văn.
-- In đậm nhiều nhất ba chỗ, cho thứ người đọc không được bỏ sót. Không mở từng gạch đầu dòng bằng một nhãn in đậm.
+- In đậm nhiều nhất ba chỗ: tiêu đề của bài đăng hay thông báo, và thứ người đọc không được bỏ sót. Không mở từng gạch đầu dòng bằng một nhãn in đậm.
 - Tiêu đề mục chỉ dùng khi bài dài hơn một màn hình.
 - Không dùng emoji. Trong câu văn không dùng dấu chấm phẩy (;), gạch ngang dài (—) và mũi tên (→). Hãy dùng dấu phẩy, dấu chấm, dấu hai chấm, hoặc viết thành chữ.
 - Không dùng dấu chấm giữa (·) ở bất cứ đâu, vì người viết hằng ngày không gõ dấu này. Thay vì ngăn các mục bằng dấu này như "Đã sửa 3 file · chưa commit", hãy viết thành câu: "Tôi đã sửa 3 file nhưng chưa commit". Từ ba mục trở lên thì dùng gạch đầu dòng.

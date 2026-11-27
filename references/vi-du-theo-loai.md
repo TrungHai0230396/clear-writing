@@ -109,19 +109,19 @@ Trước:
 
 Sau:
 
-> Trang Ưu đãi có thêm ô tìm kiếm, từ hôm nay 12/11
->
-> Chào cả nhà,
+> **Trang Ưu đãi có thêm ô tìm kiếm, từ hôm nay 12/11**
 >
 > Khách gõ tên quà hoặc tên thương hiệu vào ô tìm kiếm là thấy kết quả, không phải kéo qua từng danh mục như trước.
 >
 > Ô tìm kiếm có ở mọi shop đang dùng trang Ưu đãi bản mới. Shop còn dùng bản cũ thì chưa có ô này.
 >
-> Lưu ý khi hỗ trợ shop: ô tìm kiếm chỉ tìm trong các quà đang bật. Quà đã tắt không hiện trong kết quả, dù khách gõ đúng tên.
+> **Lưu ý khi hỗ trợ shop:** ô tìm kiếm chỉ tìm trong các quà đang bật. Quà đã tắt không hiện trong kết quả, dù khách gõ đúng tên.
 >
 > Thắc mắc xin nhắn nhóm Sản phẩm.
 
-Đã đổi gì: tiêu đề chứa tin chính và ngày. Thân bài nói khách làm được gì, shop nào có, và một điều người hỗ trợ cần biết. Bỏ emoji, chữ in hoa, nhãn in đậm, "bước tiến quan trọng".
+Đã đổi gì: tiêu đề chứa tin chính và ngày. Thân bài nói khách làm được gì, shop nào có, và một điều người hỗ trợ cần biết. Bỏ emoji, chữ in hoa, nhãn in đậm ở từng dòng, và "bước tiến quan trọng".
+
+Bản sau vẫn in đậm hai chỗ: tiêu đề và lưu ý cho người hỗ trợ. Nếu bỏ hết chỗ nhấn thì bài nhìn như một khối chữ, và người đọc lướt qua sẽ không thấy tin chính.
 
 Câu "Áp dụng cho các shop..." không nói cái gì được áp dụng, nên được viết lại thành "Ô tìm kiếm có ở mọi shop...". Câu không gọi thẳng người đọc ("bạn nào chưa nắm"), vì bài đăng chung có cả lãnh đạo đọc.
 
