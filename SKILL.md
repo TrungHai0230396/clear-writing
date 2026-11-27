@@ -1,6 +1,6 @@
 ---
 name: clear-writing
-description: Viết như một người nắm việc đang nói với đồng nghiệp - ngắn gọn, súc tích, điều chính nói trước, mỗi ý một đoạn có xuống dòng, câu đủ chủ ngữ và bổ ngữ, chữ thường ngày, đọc một lần là hiểu, không có mùi máy viết (không rào đón, không tóm tắt lặp lại, không thuật ngữ hay tên code chưa giải thích, không nhãn in đậm, emoji, gạch ngang dài, dấu chấm phẩy, dấu chấm giữa). Dùng skill này mỗi khi viết bất cứ thứ gì cho người đọc, gồm câu trả lời và lời giải thích trong chat, lời báo lại việc đã làm, tin nhắn hay email soạn hộ, bình luận task, commit, mô tả MR, thông báo, hướng dẫn, tài liệu. Dùng cả khi người dùng nói "viết ngắn gọn thôi", "dài dòng quá", "viết lại cho dễ hiểu", "ghi gì không hiểu", "giải thích đơn giản thôi", "viết như người viết", "đọc như máy viết", "soạn tin nhắn gửi", "viết lại đoạn này". Báo cáo công việc có khung (tuần, tháng, sự cố, đề xuất) thì dùng viet-bao-cao nếu có.
+description: Viết như một người nắm việc đang nói với đồng nghiệp - ngắn gọn, súc tích, điều chính nói trước, mỗi ý một đoạn có xuống dòng, câu đủ chủ ngữ và bổ ngữ, chữ thường ngày, đọc một lần là hiểu, không có mùi máy viết (không rào đón, không tóm tắt lặp lại, không thuật ngữ hay tên code chưa giải thích, không nhãn in đậm, emoji, gạch ngang dài, dấu chấm phẩy, dấu chấm giữa). Dùng skill này mỗi khi viết bất cứ thứ gì cho người đọc, gồm câu trả lời và lời giải thích trong chat, câu hỏi có sẵn lựa chọn, lời báo lại việc đã làm, tin nhắn hay email soạn hộ, bình luận task, commit, mô tả MR, thông báo, hướng dẫn, tài liệu. Dùng cả khi người dùng nói "viết ngắn gọn thôi", "dài dòng quá", "viết lại cho dễ hiểu", "ghi gì không hiểu", "giải thích đơn giản thôi", "viết như người viết", "đọc như máy viết", "soạn tin nhắn gửi", "viết lại đoạn này". Báo cáo công việc có khung (tuần, tháng, sự cố, đề xuất) thì dùng viet-bao-cao nếu có.
 ---
 
 # Viết dễ hiểu
@@ -65,7 +65,7 @@ Các thói quen khác về câu:
 - Câu điều kiện viết đủ "nếu... thì...".
 - Giữ các từ nối mang nghĩa như vì, nên, nhưng, nếu, còn. Chúng cho người đọc biết hai ý liên quan thế nào.
 - Hai ý thì viết thành hai câu, hoặc nối bằng dấu phẩy và một từ nối. Không dùng dấu chấm phẩy (;), vì người viết hằng ngày hiếm khi dùng dấu này.
-- Một thứ chỉ gọi bằng một tên từ đầu tới cuối. Nếu đổi tên giữa chừng thì người đọc tưởng là hai thứ.
+- Một thứ chỉ gọi bằng một tên từ đầu tới cuối. Nếu đổi tên giữa chừng thì người đọc tưởng là hai thứ. Gọi tắt sau lần đầu cũng là đổi tên: đoạn đầu viết "yêu cầu rút tiền" thì các đoạn sau cũng viết "yêu cầu rút tiền", không rút gọn thành "yêu cầu rút".
 - Khi câu nhắc tới hai thứ, gọi lại tên thay cho "nó", "cái này".
 - Nói điều xảy ra, tránh phủ định chồng nhau: "phải có quyền quản trị mới xoá được", không viết "không thể xoá nếu không có quyền quản trị".
 
@@ -145,6 +145,15 @@ Viết rõ quan trọng hơn viết ngắn. Nếu bỏ một câu hay một bổ
 Số từ ở trên là mức thường gặp. Bài dài hơn mức đó thì cắt thêm một lượt câu thừa, và chỉ giữ dài khi bỏ nữa người đọc sẽ phải hỏi lại.
 
 Ví dụ cho từng loại nằm ở `references/vi-du-theo-loai.md`. Hãy đọc file đó khi viết một loại bài lần đầu trong phiên.
+
+### Hộp câu hỏi có sẵn lựa chọn
+
+Khi hỏi người dùng bằng một hộp có sẵn các lựa chọn để bấm, người dùng thường chỉ nhìn thấy hộp đó, không thấy những gì bạn viết trước đó. Vì vậy:
+
+- Mỗi câu hỏi phải tự đứng được. Gọi đủ tên thứ đang hỏi: viết "Cột Chuyển từ kỳ nào nên ghi kỳ nào?", không viết "Cột ghi kỳ nào?".
+- Không dùng mã tự đặt như "Y7", "K3", "hướng B". Ví dụ dùng số và tên người dùng vẫn gọi: "yêu cầu số 7", "kỳ 3".
+- Tên lựa chọn là một cụm ngắn nói rõ chọn gì. Phần mô tả nói chọn nó thì người dùng sẽ thấy gì, và viết thành câu đủ thành phần: "Ở kỳ 6, cột này ghi kỳ 5", không viết "K6 ghi K5".
+- Tên file, tên nhánh, số MR chỉ ghi khi người dùng cần chúng để quyết.
 
 ## Trình bày
 
