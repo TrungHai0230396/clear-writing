@@ -42,6 +42,16 @@ Khi skill có bản mới, bạn chạy lệnh sau để cập nhật:
 git -C ~/.claude/skills/clear-writing pull
 ```
 
+## Cài vào app Claude
+
+Nếu bạn dùng Claude trên web hoặc ứng dụng máy tính, bạn làm theo các bước sau:
+
+1. Tải file [clear-writing.zip](https://github.com/TrungHai0230396/clear-writing/releases/latest/download/clear-writing.zip).
+2. Vào Settings > Capabilities, bật mục "Code execution and file creation". Bản mới của app gọi mục này là "Create and edit files".
+3. Vào Customize > Skills, bấm dấu +, chọn "Create skill", rồi chọn "Upload a skill" và chọn file vừa tải.
+
+Cài xong, bạn mở cuộc trò chuyện mới thì Claude mới dùng skill. Khi skill có bản mới, bạn tải file zip mới và tải lên lại.
+
 ## Các file trong kho
 
 - `SKILL.md`: sáu thói quen viết, cách chọn giọng và độ dài theo từng loại bài, và các ví dụ trước và sau.
